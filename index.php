@@ -10,6 +10,7 @@
     <!-- Bootstrap -->
     <link href="local/css/bootstrap.min.css" rel="stylesheet">
     <link href="local/css/bootstrap-theme.min.css" rel="stylesheet">
+    <link href="local/css/main.css" rel="stylesheet">
     <!-- JQuery -->
     <script type="text/javascript" src="local/js/jquery.js"></script>
     <link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.11.2/themes/smoothness/jquery-ui.css" />
